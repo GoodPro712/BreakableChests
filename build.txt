@@ -1,0 +1,3 @@
+displayName = Breakable Chests
+author = LolXD87, GoodPro712
+version = 1.0

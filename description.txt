@@ -1,0 +1,8 @@
+Breakable Chests is a mod that allows the player to break a chest with items in it with the items dropping as they break it.
+
+Thanks LolXD87 for doing basically all the work.
+
+Version History:
+
+v1.0
+- Initial release
