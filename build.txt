@@ -1,3 +1,4 @@
 displayName = Breakable Chests
 author = LolXD87, GoodPro712
-version = 1.0
+version = 1.0.1
+homepage = https://forums.terraria.org/index.php?threads/breakable-chests.92640/
